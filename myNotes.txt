@@ -1,0 +1,8 @@
+git status
+git add .
+git commit -m "First Commit" 
+git push origin gh-pages (this uploads your changes to the gh-pages branch) 
+
+
+git push origin gh-pages (this is what you originally do to create and switch to gh-pages branch) 
+
