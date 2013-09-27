@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0; 
+	}
+
+html {
+	background-color: #c3edf8; 
+}
+body {
+	font-family: "Helvetica", Arial, sans-serif; 
+	width: 900px; 
+	margin: 0 auto;  
+}
+header {
+	background-color: red; 
+	overflow: auto; 
+}
+
+#logo{
+	float: left; 
+}
+
+nav {
+	float: right; 
+	}
+
+section {
+	background-color: green; 
+	overflow: auto; 
+}
+
+#left {
+width: 30%; 
+float: left; 
+}
+
+#right{
+width: 70% 
+float: right; 
+}
+
+.cell {
+	background-color: purple; 
+	border: 10px solid red; 
+	margin: 5px; 
+	color: white; 
+	padding: 20px; 
+	}
+
+textarea {
+	font-family: "Comic Sans MS"; 
+	font-size: 16px; 
+	width: 100%; 
+}
+
+.post-button {
+	color: red; 
+	text-decoration: none; 
+	background-color: orange; 
+	padding: 10px; 
+	display: inline-block; 
+}
+
+footer {
+	background-color: blue; 
+	padding: 20px; 
+	color: white; 
+	font-weight: bold; 
+	text-decoration: underline; 
+	text-align: center; 
+}
